@@ -1,0 +1,22 @@
+This simple mod changes the max trait points available for Stelaris Evolved, inspired by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=165512482]!!More Trait Picks[/url]
+The initial mod is not needed but added for credit
+
+[h1]Changes and Additions[/h1]
+[list]
+[*] Robots get 8 maximum traits
+[*] Machines get 9 maximum traits
+[*] Biologicals, Bioservants and Replicants get 10 maximum traits
+[/list]
+
+[h1]Mod Load Order[/h1]
+[list]
+[*] Stellaris Evolved - Alpha
+[*] Stellaris Evolved + More Trait Picks
+[/list]
+
+[h1]Contacts And Links[/h1]
+[list]
+[*] Discord: MrRoAdd#4232
+[*] Github: https://github.com/adriangaro/evolved-more-trait-picks
+[*] Contributions, bug reports and fixes are appreciated!
+[/list]
